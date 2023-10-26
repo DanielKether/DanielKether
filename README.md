@@ -1,19 +1,18 @@
 ## 🎩 Greetings
-I'm the one who roots for AI
-<br> making my way to meet another 
-<br> form of consciousness
+I'm the one who pursue AGI
+<br> to meet another form
+<br> of consciousness
 
 ### 🎓 Knowledge
 DeepLearning.AI [ML Spec in progress](https://www.coursera.org/specializations/machine-learning-introduction)
-<br> IBM Data Science [Certificates]()
-<br> Kaggle Learn [Certificates]()
+<br> IBM Data Science [Certificates](https://github.com/DanielKether/DanielKether-Education/tree/main/certificates)
+<br> Kaggle Learn [Certificates](https://github.com/DanielKether/DanielKether-Education/tree/main/certificates)
 
 <!--### 🎱 Skills-->
 
 ### 🕶️ Experience
 Have nothing to show off within Data Science **just yet**
 <br> Making my progress with portfolio projects
-<br> Please stay up to date if you may hire <3
 <br> Before the switch I used to:
 <br> led sales teams for 3 years and
 <br> was a B2B salesman for 4 years prior
@@ -22,12 +21,13 @@ Have nothing to show off within Data Science **just yet**
 
 ### 📞 Contact
 The fastest way is [Telegram](https://t.me/danielkether)
-<br> You can also use [LinkedIn](https://linkedin.com/in/danielkether)
-<br> Or even <a href="mailto:daniel.kether@gmail.com">email</a> me
+<br> The other one - <a href="mailto:daniel.kether@gmail.com">email</a> me
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=danielkether&label=Profile%20views&color=999999&style=flat" alt="danielkether" /> </p>
 
 <!--
+# LINKEDIN:
+<br> You can also use [LinkedIn](https://linkedin.com/in/danielkether)
 # VISITORS:
 <p align="center">![visitors](https://visitor-badge.glitch.me/badge?page_id=danielkether&left_color=grey&right_color=white)</p>
 # STATS:
